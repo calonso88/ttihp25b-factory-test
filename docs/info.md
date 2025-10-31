@@ -32,3 +32,5 @@ The counter is an 8-bit counter that increments on every clock cycle, and resets
 1. Set `rst_n` low and observe that the input pins (`ui_in`) are output on the output pins (`uo_out`).
 2. Set `rst_n` high and `sel` low and observe that the bidirectional pins (`uio_in`) are output on the output pins (`uo_out`).
 3. Set `sel` high and observe that the counter is output on both the output pins (`uo_out`) and the bidirectional pins (`uio`).
+
+Caio
